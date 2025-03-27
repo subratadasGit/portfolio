@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer currently learning Web3.0. I love building things and helping people. Very active on linkedin.",
   summary:
-    " Focused on building amazing apps. My expertise spans blockchain, NLP , and Web3, with hands-on experience in Solidity, Foundry, Next.js, Ethers.js, and Prisma ORM. Currently I am working on innovative projects like KrishiSutra, a blockchain-based marketplace for tokenized agricultural assets, and Rentify.ai, a real estate dApp integrating AI.. I pursued an MCA at Heritage Institute of Technology and a BSc in Computer Science from Bangabasi College",
+    " Focused on building amazing apps. My expertise spans blockchain, NLP , and Web3, with hands-on experience in Solidity, Foundry, Next.js, Ethers.js, and Prisma ORM. Currently I am working on innovative projects like KrishiSutra, a blockchain-based marketplace for tokenized agricultural assets, and Rentify.ai, a real estate dApp integrating AI.. I am pursuing my MCA at Heritage Institute of Technology and a BSc in Computer Science from Bangabasi College",
   avatarUrl: "/me.jpg",
   skills: [ 
     "React",
