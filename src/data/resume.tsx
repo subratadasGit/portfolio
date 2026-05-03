@@ -12,18 +12,14 @@ export const DATA = {
   summary:
     " Focused on building amazing apps. My expertise spans blockchain, NLP , and Web3, with hands-on experience in Solidity, Foundry, Next.js, Ethers.js, and Prisma ORM. Currently I am working on innovative projects like KrishiSutra, a blockchain-based marketplace for tokenized agricultural assets, and Rentify.ai, a real estate dApp integrating AI.. I am pursuing my MCA from Heritage Institute of Technology and a BSc in Computer Science from Bangabasi College",
   avatarUrl: "/me.jpg",
-  skills: [ 
+  skills: [
     "React",
     "Next.js",
-    "Typescript",
+    "Express.js",
     "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++","Solidty","Ether.js"
+    "tailwind",
+    "Postgres", "MongoDB",
+    "Java", "Solidty", "Ether.js", "React-Router-Dom", "Gemini-Ai", "Cloudinary", "Vercel", "Redux-Toolkit", "Git", "GitHub", "Gitlab"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -42,7 +38,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/subrata-das-1094a8253/",
+        url: "https://www.linkedin.com/in/subrata-das-mca",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -193,7 +189,8 @@ export const DATA = {
         "BootStrap",
         "Xampp",
         "Stripe",
-       
+        "php"
+
       ],
       links: [
         {
@@ -203,7 +200,59 @@ export const DATA = {
         },
       ],
       image: "/proj1.png",
-      
+
+    },
+    {
+      title: "Foodfit",
+      href: "https://foodfit-1-ck94.onrender.com",
+      dates: "April 2026 - May 2026",
+      active: true,
+      description:
+        "Foodfit is a full-stack AI-powered meal planning app that helps users generate recipes, manage pantry items, save favorite recipes, organize weekly meal plans, and maintain a shopping list.",
+      technologies: [
+        "React.js",
+        "TailwindCss",
+        "Node.js",
+        "PostgreSQL",
+        "Express.js",
+        "Gemini AI",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://foodfit-1-ck94.onrender.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/FoodFit.png",
+
+    }, {
+      title: "Generator CMS",
+      href: "https://frontend-black-ten-65.vercel.app/",
+      dates: "April 2026 - May 2026",
+      active: true,
+      description:
+        "Generator CMS is a full-stack CMS for generating various types of content.",
+      technologies: [
+        "React.js",
+        "TailwindCss",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Gemini AI",
+        "Cloudinary",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://frontend-black-ten-65.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/cms.png",
+
     },
     // {
     //   title: "Magic UI",
