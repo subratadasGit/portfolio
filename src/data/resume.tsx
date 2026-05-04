@@ -8,9 +8,9 @@ export const DATA = {
   location: "West Bengal, IN",
   locationLink: "https://www.google.com/maps/place/kolkata",
   description:
-    "Software Engineer currently learning Web3.0. I love building things and helping people. Very active on linkedin.",
+    "Software Engineer currently learning Web3.0  and AI powered Web Apps. I love building things and helping people. Very active on linkedin.",
   summary:
-    " Focused on building amazing apps. My expertise spans blockchain, NLP , and Web3, with hands-on experience in Solidity, Foundry, Next.js, Ethers.js, and Prisma ORM. Currently I am working on innovative projects like KrishiSutra, a blockchain-based marketplace for tokenized agricultural assets, and Rentify.ai, a real estate dApp integrating AI.. I am pursuing my MCA from Heritage Institute of Technology and a BSc in Computer Science from Bangabasi College",
+    " Focused on building amazing apps. My expertise spans MERN with AI integrations and Web3, with hands-on experience in React , Node.js , Express.js , MongoDB , Postgres , Solidiy ,  Foundry , Hardhat , Ethers.js , Gemini AI  Currently I am working on innovative projects like CMS with Ai , a blockchain-based marketplace for tokenized agricultural assets, and AI powered Web Apps, a real estate dApp integrating AI.. I am pursuing my MCA from Heritage Institute of Technology and a BSc in Computer Science from Bangabasi College",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
